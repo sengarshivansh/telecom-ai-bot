@@ -1,0 +1,11 @@
+telecom-ai/
+├── backend/
+│   ├── main.py          ← FastAPI app
+│   ├── stt.py           ← Whisper speech-to-text
+│   ├── translate.py     ← googletrans
+│   ├── intent.py        ← intent classifier
+│   └── response.py      ← response generator + TTS
+├── frontend/            ← React app
+├── dataset/
+│   └── intents.csv      ← your training data
+└── requirements.txt

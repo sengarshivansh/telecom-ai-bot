@@ -1,0 +1,67 @@
+text,label
+Data balance tori,data_usage
+Mujhe complaint darz karni hai,complaint
+Inga irundhu veliyeru vendum,port_number
+When will my data expire,data_usage
+Best plan for 1 month,plan_info
+Signal zero hai yaar,network_issue
+Dusre network mein jaana hai,port_number
+Tell me about 28 day plan,plan_info
+Signal nahi aa raha,network_issue
+Signal sigalla,network_issue
+Balance chekku cheyyandi,balance
+Internet pani cheyyatledu,network_issue
+Is my balance enough for a call,balance
+Please recharge my mobile,recharge
+Internet khatam ho raha hai,data_usage
+Abhi balance kitna hai,balance
+I did not understand,unknown
+Recharge maadbekide,recharge
+What is the best value plan,plan_info
+Nanna balance eshtu ide,balance
+Ee network vadalipovalani undi,port_number
+My internet is not working,network_issue
+My calls are dropping,network_issue
+Kitna balance bacha hai,balance
+Service sari illa complaint ide,complaint
+Which plan has the most data,plan_info
+Hw much bal left,balance
+What is my account balance,balance
+Plan tori,plan_info
+I want to report a problem,complaint
+Nalla plan oru suggest pannu,plan_info
+Data khatam ho gya,data_usage
+Complaint pannum,complaint
+Neevu yaaru,unknown
+Can you recharge my phone,recharge
+Data enduko expire avutundi,data_usage
+Main apni complaint escalate karna chahta hun,complaint
+Network illa,network_issue
+How to port to BSNL,port_number
+Recharge pannunga,recharge
+Recharge senjitu,recharge
+Namaste,unknown
+Help maadi,unknown
+Recharge my number,recharge
+Offer tori,plan_info
+Plan cheppandi,plan_info
+Epdi plan iruku,plan_info
+I want to recharge,recharge
+How much data is left,data_usage
+Network problem hai,network_issue
+Check remaining internet data,data_usage
+Recharge karna hai,recharge
+Eppo data mudiyadhu,data_usage
+I have a complaint,complaint
+Signal is very weak,network_issue
+Balance dekhna hai,balance
+Bere network ge hogabeku,port_number
+Nanna issue solve aagilla,complaint
+Vera network ku poi,port_number
+My balance is over please recharge,recharge
+Internet eshtu ide,data_usage
+I want to leave this network,port_number
+Net bahut slow hai aaj,network_issue
+I want to escalate my complaint,complaint
+Network is down in my area,network_issue
+Balance nodabeku,balance

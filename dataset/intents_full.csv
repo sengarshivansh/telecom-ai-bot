@@ -1,0 +1,331 @@
+text,label,language
+Recharge my number,recharge,english
+I want to recharge,recharge,english
+Top up my SIM with 199,recharge,english
+Do a recharge of 299,recharge,english
+Please recharge my mobile,recharge,english
+I need a recharge pack,recharge,english
+Recharge with 199 plan,recharge,english
+Add balance to my number,recharge,english
+Can you recharge my phone,recharge,english
+I want to add a new plan,recharge,english
+Recharge 499 on my number,recharge,english
+My balance is over please recharge,recharge,english
+Do a quick recharge for me,recharge,english
+199 ka recharge karo,recharge,hindi
+Mera number recharge karo,recharge,hindi
+Recharge karna hai,recharge,hindi
+299 ka pack lagao,recharge,hindi
+Number mein balance daalo,recharge,hindi
+Abhi recharge karo,recharge,hindi
+Mujhe recharge chahiye,recharge,hindi
+Mere liye 199 ka recharge karo,recharge,hindi
+Recharge ho gaya kya,recharge,hindi
+Naya pack lagana hai,recharge,hindi
+Jaldi recharge karo,recharge,hindi
+Nanna number recharge maadi,recharge,kannada
+Recharge maadbekide,recharge,kannada
+199 recharge maadi,recharge,kannada
+SIM recharge maadi please,recharge,kannada
+Nanna SIM ge balance haaki,recharge,kannada
+Recharge aagilla please maadi,recharge,kannada
+Nanna numberge pack haaki,recharge,kannada
+Recharge pannunga,recharge,tamil
+En number recharge pannu,recharge,tamil
+199 recharge pannanum,recharge,tamil
+Mobile recharge seyyanum,recharge,tamil
+SIM recharge venum,recharge,tamil
+Recharge senjitu,recharge,tamil
+Naa number recharge cheyyandi,recharge,telugu
+Recharge cheyyali,recharge,telugu
+199 recharge pettandi,recharge,telugu
+Naa mobile ki balance pettandi,recharge,telugu
+SIM recharge kavali,recharge,telugu
+Naa number ki pack pettandi,recharge,telugu
+How much balance do I have,balance,english
+Check my balance,balance,english
+What is my current balance,balance,english
+Show me my balance,balance,english
+What is left in my account,balance,english
+Tell me my remaining balance,balance,english
+How much money is left,balance,english
+What is my account balance,balance,english
+How much credit do I have left,balance,english
+Check my remaining balance please,balance,english
+Is my balance enough for a call,balance,english
+What is the balance on my SIM,balance,english
+Mera balance kitna hai,balance,hindi
+Balance check karo,balance,hindi
+Kitna balance bacha hai,balance,hindi
+Account mein kitna paisa hai,balance,hindi
+Balance batao,balance,hindi
+Mera account balance kya hai,balance,hindi
+Abhi balance kitna hai,balance,hindi
+Mere number ka balance check karo,balance,hindi
+Balance dekhna hai,balance,hindi
+Mujhe balance check karna hai,balance,hindi
+Nanna balance eshtu ide,balance,kannada
+Balance check maadi,balance,kannada
+Nanna account balance tori,balance,kannada
+Eshtu balance ide,balance,kannada
+Balance hella,balance,kannada
+Nanna SIM balance eshtu,balance,kannada
+Balance nodabeku,balance,kannada
+Balance sollu,balance,tamil
+En balance enna,balance,tamil
+Kitna balance iruku,balance,tamil
+Balance check pannu,balance,tamil
+Account la enna balance iruku,balance,tamil
+En SIM balance pakanum,balance,tamil
+Balance cheppandi,balance,telugu
+Naa balance enta undi,balance,telugu
+Account balance chudandi,balance,telugu
+Balance chekku cheyyandi,balance,telugu
+Naa balance telupandi,balance,telugu
+Naa SIM balance enta,balance,telugu
+My internet is not working,network_issue,english
+Network problem on my phone,network_issue,english
+Signal is very weak,network_issue,english
+No network coverage here,network_issue,english
+My calls are dropping,network_issue,english
+Data is extremely slow,network_issue,english
+Internet keeps disconnecting,network_issue,english
+I have no signal on my phone,network_issue,english
+Network is down in my area,network_issue,english
+Calls keep getting cut,network_issue,english
+I cannot make any calls,network_issue,english
+Why is my internet so slow,network_issue,english
+My 4G is not working,network_issue,english
+Network problem hai,network_issue,hindi
+Signal nahi aa raha,network_issue,hindi
+Data slow ho gaya hai,network_issue,hindi
+Internet band ho gaya,network_issue,hindi
+Network nahi chal raha,network_issue,hindi
+Call kat rahi hai,network_issue,hindi
+Mere area mein network nahi hai,network_issue,hindi
+Internet bilkul nahi chal raha,network_issue,hindi
+4G kaam nahi kar raha,network_issue,hindi
+Signal bahut kamzor hai,network_issue,hindi
+Network sambandha illa,network_issue,kannada
+Internet slow aagide,network_issue,kannada
+Signal sigalla,network_issue,kannada
+Network illa,network_issue,kannada
+Call cut aagutide,network_issue,kannada
+4G kaaj aagalla,network_issue,kannada
+Nanna areaalli network illa,network_issue,kannada
+Network illai,network_issue,tamil
+Internet work agalla,network_issue,tamil
+Signal illa,network_issue,tamil
+Data slow aaguthu,network_issue,tamil
+Call disconnect aaguthu,network_issue,tamil
+4G velaikagala,network_issue,tamil
+En area network illai,network_issue,tamil
+Network ledu,network_issue,telugu
+Internet pani cheyyatledu,network_issue,telugu
+Signal ledu,network_issue,telugu
+Data slow ga undi,network_issue,telugu
+Network problem undi,network_issue,telugu
+4G pani cheyyatledu,network_issue,telugu
+Naa area lo network ledu,network_issue,telugu
+What are the plans available,plan_info,english
+Show me all offers,plan_info,english
+Best plan for 1 month,plan_info,english
+Which plan gives unlimited calls,plan_info,english
+What is the cheapest plan,plan_info,english
+Tell me about 28 day plan,plan_info,english
+What plans do you have,plan_info,english
+Which plan has the most data,plan_info,english
+What is the best value plan,plan_info,english
+Suggest a good plan for me,plan_info,english
+Show me plans under 200 rupees,plan_info,english
+What is the validity of 299 plan,plan_info,english
+Which plan is good for heavy data users,plan_info,english
+Konsa plan lena chahiye,plan_info,hindi
+Plan dikhao,plan_info,hindi
+28 din ka plan kya hai,plan_info,hindi
+Sabse sasta plan konsa hai,plan_info,hindi
+Best offer kya hai,plan_info,hindi
+Plan ke baare mein batao,plan_info,hindi
+Sabse zyada data konse plan mein hai,plan_info,hindi
+200 rupaye se kam ka plan dikhao,plan_info,hindi
+Mujhe ek achha plan suggest karo,plan_info,hindi
+299 plan ki validity kya hai,plan_info,hindi
+Plan tori,plan_info,kannada
+Yaava plan chennagide,plan_info,kannada
+28 din plan eshtu,plan_info,kannada
+Offer tori,plan_info,kannada
+Best plan heluva,plan_info,kannada
+Enu plan ide heluva,plan_info,kannada
+200 rupai olage plan tori,plan_info,kannada
+Nange plan suggest maadi,plan_info,kannada
+Plan sollu,plan_info,tamil
+Epdi plan iruku,plan_info,tamil
+28 day plan enna,plan_info,tamil
+Best offer sollu,plan_info,tamil
+Plan details vendum,plan_info,tamil
+Nalla plan oru suggest pannu,plan_info,tamil
+200 rupees kulla plan irukka,plan_info,tamil
+Plan cheppandi,plan_info,telugu
+Plan details chudandi,plan_info,telugu
+Best plan edi,plan_info,telugu
+Offer cheppandi,plan_info,telugu
+28 rojula plan emi undi,plan_info,telugu
+Naku plan suggest cheyyandi,plan_info,telugu
+200 rupayala plan chuppandi,plan_info,telugu
+How much data is left,data_usage,english
+Check my data balance,data_usage,english
+How many MB remaining,data_usage,english
+How much internet do I have left,data_usage,english
+My data is almost finished,data_usage,english
+How much GB do I have remaining,data_usage,english
+Check remaining internet data,data_usage,english
+How much data have I used today,data_usage,english
+When will my data expire,data_usage,english
+How much data is left in my plan,data_usage,english
+Show me my data usage,data_usage,english
+Data kab khatam hoga,data_usage,hindi
+Kitna data bacha hai,data_usage,hindi
+Data check karo,data_usage,hindi
+Internet khatam ho raha hai,data_usage,hindi
+Mera data kitna bacha hai,data_usage,hindi
+Aaj kitna data use kiya,data_usage,hindi
+Data kab expire hoga,data_usage,hindi
+Mujhe data check karna hai,data_usage,hindi
+Kitna GB bacha hai,data_usage,hindi
+Data eshtu undi,data_usage,kannada
+Data check maadi,data_usage,kannada
+Nanna data eshtu baaki ide,data_usage,kannada
+Internet eshtu ide,data_usage,kannada
+Data balance tori,data_usage,kannada
+Ivattu eshtu data use aagide,data_usage,kannada
+Data yaavaga expire aagatte,data_usage,kannada
+Data balance sollu,data_usage,tamil
+Eppo data mudiyadhu,data_usage,tamil
+Data enna balance iruku,data_usage,tamil
+Internet balance check pannu,data_usage,tamil
+Indru enna data use achu,data_usage,tamil
+Data evalo MB irruku,data_usage,tamil
+Data enta undi,data_usage,telugu
+Data balance chekku,data_usage,telugu
+Naa data enta migilaindi,data_usage,telugu
+Internet balance chudandi,data_usage,telugu
+Nenu enta data vadikindi,data_usage,telugu
+Data enduko expire avutundi,data_usage,telugu
+I want to register a complaint,complaint,english
+I have a complaint,complaint,english
+File a complaint please,complaint,english
+I want to report a problem,complaint,english
+My issue is not resolved,complaint,english
+Register my complaint,complaint,english
+I am not happy with your service,complaint,english
+My problem has not been fixed yet,complaint,english
+I want to escalate my complaint,complaint,english
+Nobody is resolving my issue,complaint,english
+Please log my complaint,complaint,english
+This is my third time calling about the same issue,complaint,english
+Complaint karna hai,complaint,hindi
+Mujhe complaint darz karni hai,complaint,hindi
+Problem report karo,complaint,hindi
+Meri problem solve nahi hui,complaint,hindi
+Complaint darj karo,complaint,hindi
+Mujhe service se problem hai,complaint,hindi
+Mera issue abhi tak solve nahi hua,complaint,hindi
+Main apni complaint escalate karna chahta hun,complaint,hindi
+Ek baar phir complaint kar raha hun,complaint,hindi
+Complaint maadabeku,complaint,kannada
+Nanna problem report maadi,complaint,kannada
+Complaint file maadi,complaint,kannada
+Nanna issue solve aagilla,complaint,kannada
+Service sari illa complaint ide,complaint,kannada
+Nanna problem iga tak fix aagilla,complaint,kannada
+Complaint pannum,complaint,tamil
+En problem report pannum,complaint,tamil
+Complaint file pannanum,complaint,tamil
+Problem solve agala,complaint,tamil
+Service sari illai complaint pannanum,complaint,tamil
+En issue fix agala,complaint,tamil
+Complaint cheyali,complaint,telugu
+Naa complaint iyavali,complaint,telugu
+Problem report cheyyandi,complaint,telugu
+Issue solve kaledu,complaint,telugu
+Service tho problem undi complaint cheyyali,complaint,telugu
+Naa issue inka fix kaledu,complaint,telugu
+I want to port my number,port_number,english
+How to change my network,port_number,english
+MNP request,port_number,english
+Port my number to Airtel,port_number,english
+Number portability request,port_number,english
+Switch network provider,port_number,english
+How do I move to another network,port_number,english
+I want to switch from Jio to Airtel,port_number,english
+How to port to BSNL,port_number,english
+What is the process to port my number,port_number,english
+I want to leave this network,port_number,english
+Number port karna hai,port_number,hindi
+Network badalna hai,port_number,hindi
+Airtel mein port karna hai,port_number,hindi
+MNP kaise kare,port_number,hindi
+Dusre network mein jaana hai,port_number,hindi
+Jio se Airtel mein shift karna hai,port_number,hindi
+Is network ko chhodna hai,port_number,hindi
+Number port maadabeku,port_number,kannada
+Network change maadi,port_number,kannada
+Airtel ge port maadi,port_number,kannada
+Bere network ge hogabeku,port_number,kannada
+I network bitthu hogabeku,port_number,kannada
+Number port pannanum,port_number,tamil
+Network change pannanum,port_number,tamil
+Airtel ku port pannanum,port_number,tamil
+Vera network ku poi,port_number,tamil
+Inga irundhu veliyeru vendum,port_number,tamil
+Number port cheyyali,port_number,telugu
+Network marchu vali undi,port_number,telugu
+Airtel ki port cheyyali,port_number,telugu
+Vera network ki velladam,port_number,telugu
+Ee network vadalipovalani undi,port_number,telugu
+I did not understand,unknown,english
+Help me,unknown,english
+What can you do,unknown,english
+Hello,unknown,english
+Who are you,unknown,english
+What is your name,unknown,english
+Are you a robot,unknown,english
+Good morning,unknown,english
+Can you help me with something,unknown,english
+Kuch samajh nahi aaya,unknown,hindi
+Kya kar sakte ho,unknown,hindi
+Namaste,unknown,hindi
+Tumhara naam kya hai,unknown,hindi
+Tum kaun ho,unknown,hindi
+Enu gottilla,unknown,kannada
+Help maadi,unknown,kannada
+Neevu yaaru,unknown,kannada
+Puriyala,unknown,tamil
+Unnakku enna peyar,unknown,tamil
+Emi artham kavatledu,unknown,telugu
+Meeru evaru,unknown,telugu
+My net not working bro,network_issue,english
+Internet dead again,network_issue,english
+Signal zero hai yaar,network_issue,hindi
+Net chal nahi raha bhai,network_issue,hindi
+Ugh internet slow again,network_issue,english
+Pls recharge fast,recharge,english
+Bro recharge kar do,recharge,hindi
+Bal check kro,balance,hindi
+Hw much bal left,balance,english
+Net kitna bacha,data_usage,hindi
+Data khatam ho gya,data_usage,hindi
+Comp lgana hai,complaint,hindi
+Prblm abhi tk sahi nai hua,complaint,hindi
+Port krna hai,port_number,hindi
+Ntwrk change karna hai,port_number,english
+Yaar balance khatam ho gaya,balance,hindi
+Bhai mera internet nai chal raha,network_issue,hindi
+Recharge jaldi karo yaar,recharge,hindi
+Kya plan hai bhai,plan_info,hindi
+Net bahut slow hai aaj,network_issue,hindi
+Data khatam bro,data_usage,english
+Top up pls,recharge,english
+Check bal,balance,english
+Net dead,network_issue,english
+Switch network,port_number,english
