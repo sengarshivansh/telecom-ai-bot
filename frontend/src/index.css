@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #0f172a;
+  color: #f1f5f9;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+
+@keyframes pulse {
+  0%   { opacity: 1; transform: scale(1); }
+  100% { opacity: 0.6; transform: scale(0.95); }
+}
+
+@keyframes bounce {
+  0%   { transform: translateY(0); }
+  100% { transform: translateY(-6px); }
+}
+
+input:focus {
+  border-color: #6366f1 !important;
+}
