@@ -1,0 +1,30 @@
+# Core ML
+torch
+transformers
+datasets
+scikit-learn
+numpy
+pandas
+
+# Speech - STT
+openai-whisper
+
+# Speech - TTS
+gTTS
+
+# Translation
+deep-translator
+
+# Language Detection
+lingua-language-detector
+
+# Backend API
+fastapi
+uvicorn
+python-multipart
+pydantic
+
+# Utilities
+requests
+python-dotenv
+
